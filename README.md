@@ -7,3 +7,12 @@ Two train and test files that still have some missing values, and
 Two train and test files that have imputed values. 
 
 All the models used in the project use either two of these four files. 
+
+The data sets below have some missing values:
+1. final_training_set.csv
+2. final_testing_set.csv
+
+The data sets below have imputed values:
+3. train_median_with_cols.csv
+4. test_median_with_cols.csv
+
